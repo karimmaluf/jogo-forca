@@ -8,6 +8,7 @@
     $selected = trim($selected);
 
     $selected_array_word = str_split($selected);
+
     //print_r($selected_array_word);
 
 ?>

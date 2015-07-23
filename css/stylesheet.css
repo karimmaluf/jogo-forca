@@ -83,3 +83,8 @@ body {
   background-repeat: no-repeat;
   display: none;
 }
+
+.insertButton {
+  margin: -45px 0px 0px 795px;
+  float: left;
+}
