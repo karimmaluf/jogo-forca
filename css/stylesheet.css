@@ -1,0 +1,85 @@
+/* GERAL */
+* { padding: 0px; margin: 0px; }
+
+body, html {
+	height:100%;
+}
+
+body { 
+	/*background: #d67376;*/
+	background: url(../img/bg_body.png) repeat-x;
+	min-width: 990px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#body { 
+	min-width: 990px;
+}
+
+.game-word{
+	padding: 15px;
+}
+
+.game-draw{
+	margin-top: 160px;
+}
+
+.game-images{
+	margin: 70px 0px 0px 0px;
+	height: 600px;
+	background-image: url(../img/game/background.png);
+	background-repeat: no-repeat;
+}
+
+.head{
+  background-image: url(../img/game/head.png);
+  height: 100px;
+  width: 100px;
+  margin: -455px 0px 4px 405px;
+  display: none;
+}
+
+.p-body{
+  background-image: url(../img/game/body.png);
+  height: 195px;
+  width: 50px;
+  margin: -10px 0px 4px 433px;
+  display: none;
+}
+
+.right-foot {
+  background-image: url(../img/game/right_foot.png);
+  height: 85px;
+  width: 90px;
+  margin: -4px 0px 0px 450px;
+  background-repeat: no-repeat;
+  display: none;
+}
+
+.left-foot {
+  background-image: url(../img/game/left_foot.png);
+  height: 85px;
+  width: 90px;
+  margin: -93px 0px 0px 375px;
+  background-repeat: no-repeat;
+  display: none;
+}
+
+.right-arm {
+  background-image: url(../img/game/right_arm.png);
+  height: 100px;
+  width: 95px;
+  margin: -225px 0px 0px 460px;
+  background-repeat: no-repeat;	
+  display: none;
+}
+
+.left-arm {
+  background-image: url(../img/game/left_arm.png);
+  height: 100px;
+  width: 95px;
+  margin: -106px 0px 0px 369px;
+  background-repeat: no-repeat;
+  display: none;
+}

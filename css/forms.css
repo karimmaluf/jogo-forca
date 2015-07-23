@@ -1,0 +1,23 @@
+form.typed-words{
+	float: left; 
+	display: inline;
+	height: auto;
+	line-height: 20px;
+	margin: 0px 0px 10px 0px;
+	width: 100%;
+	text-align: center;
+}
+
+form.typed-words input[type=text], form.typed-words input.text{
+	background-color: #ffffff;
+	color: #666666;
+	font-size: 12px;
+	border: none; 
+	margin: 0;
+	padding: 3px 0 3px 0;
+	height: 20px;
+	line-height: 20px;
+	width: 50px;
+	text-transform: uppercase;
+	border:solid #000000;
+}
